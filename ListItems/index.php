@@ -8,7 +8,7 @@
 
 	<ul id="list">
    <li class="colorRed">
-        Walk the dog
+        Walk the dog Changed
     </li>
 
     <!-- more list items -->
